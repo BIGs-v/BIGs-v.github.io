@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BIGs-v.github.io/static/css/main.8079ce0d.css",
+    "main.js": "/BIGs-v.github.io/static/js/main.2b5e26ab.js",
+    "static/media/5.PNG": "/BIGs-v.github.io/static/media/5.deddf1050e493b59b00e.PNG",
+    "static/media/2.JPEG": "/BIGs-v.github.io/static/media/2.2bfefc5d90bfc856830a.JPEG",
+    "static/media/portfolio5.png": "/BIGs-v.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/CV.pdf": "/BIGs-v.github.io/static/media/CV.8e7c6e84e6a1c9ba903a.pdf",
+    "static/media/portfolio1.jpg": "/BIGs-v.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/BIGs-v.github.io/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/BIGs-v.github.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/BIGs-v.github.io/index.html",
+    "main.8079ce0d.css.map": "/BIGs-v.github.io/static/css/main.8079ce0d.css.map",
+    "main.2b5e26ab.js.map": "/BIGs-v.github.io/static/js/main.2b5e26ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8079ce0d.css",
+    "static/js/main.2b5e26ab.js"
+  ]
+}
